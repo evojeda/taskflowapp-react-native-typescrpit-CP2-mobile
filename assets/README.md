@@ -104,9 +104,10 @@ src/
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./readme/home-tela.jpeg" width="250"/>
-  <img src="./readme/tarefa-tela.jpeg" width="250"/>
-  <img src="./readme/configuracoes-tela.jpeg" width="250"/>
+  <img src="./readme/home-tela.jpeg" width="200"/>
+  <img src="./readme/lista-tela.jpeg" width="200"/>
+  <img src="./readme/tarefa-tela.jpeg" width="200"/>
+  <img src="./readme/configuracoes-tela.jpeg" width="200"/>
 </p>
 
 ---
