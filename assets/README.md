@@ -104,9 +104,9 @@ senha: 123
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./assets/readme/home-tela.jpeg" width="250"/>
-  <img src="./assets/readme/tarefa-tela.jpeg" width="250"/>
-  <img src="./assets/readme/configuracoes-tela.jpeg" width="250"/>
+  <img src="./readme/home-tela.jpeg" width="250"/>
+  <img src="./readme/tarefa-tela.jpeg" width="250"/>
+  <img src="./readme/configuracoes-tela.jpeg" width="250"/>
 </p>
 
 ---
