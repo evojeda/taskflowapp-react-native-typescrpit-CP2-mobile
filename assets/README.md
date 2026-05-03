@@ -26,7 +26,18 @@ O TaskFlow é voltado para:
 O sistema possui dois perfis de acesso:
 
 - 👨‍💼 **Administrador**
-- 👤 **Usuário comum**
+- 👤 **Usuário**
+
+---
+
+## 🔑 Credenciais de teste
+Administrador:
+usuário: admin
+senha: 123
+
+Usuário:
+usuário: user
+senha: 123
 
 ---
 
@@ -81,17 +92,6 @@ src/
 ├── routes/
 ├── screens/
 └── types/
-
----
-
-## 🔑 Credenciais de teste
-Administrador:
-usuário: admin
-senha: 123
-
-Usuário:
-usuário: user
-senha: 123
 
 ---
 
